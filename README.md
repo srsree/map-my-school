@@ -1,4 +1,4 @@
 map-my-school
 =============
 
-Reposiroty or schools geo-mapping and visualization tool
+Repository for schools geo-mapping and visualization tool
